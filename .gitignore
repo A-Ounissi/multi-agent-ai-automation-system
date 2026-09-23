@@ -1,0 +1,10 @@
+.env
+.env.*
+*.key
+*credentials*
+*secrets*
+node_modules/
+.DS_Store
+*.log
+/config/local*
+*.pem

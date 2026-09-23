@@ -1,0 +1,3 @@
+# Unipile Integration
+
+Unipile provides a unified messaging API used specifically for Meta-owned apps (WhatsApp) where native API access is restrictive for non-enterprise use cases. The WhatsApp Agent's tools (Send/Retrieve Messages, Get Conversation ID) are implemented against Unipile's endpoints rather than Meta's direct Business API, which was necessary to work around limitations not clearly documented on the client-referenced source material.
