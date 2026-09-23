@@ -1,6 +1,6 @@
-# Multi-Agent AI Automation System (Super Agent Team)
+# Multi Agent AI Automation System (Super Agent Team)
 
-A 20-agent, 50+ tool AI orchestration system that lets a single natural-language request trigger complex, multi-software workflows — messaging, CRM, research, content publishing, and scheduling — built on Relevance AI + Make.com, with Unipile for Meta app integrations.
+A 20-agent, 50+ tool AI orchestration system that lets a single natural-language request trigger complex, multi-software workflows messaging, CRM, research, content publishing, and scheduling built on Relevance AI + Make.com, with Unipile for Meta app integrations.
 
 ## What It Does
 
@@ -70,4 +70,4 @@ This was built as a real client engagement (scope, agent design, and integration
 
 ## Author
 
-Built by [Your Name]. Open to consulting/collaboration on agentic automation systems.
+Built by Ahmed Ounissi. Open to consulting/collaboration on agentic automation systems.
